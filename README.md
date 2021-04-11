@@ -26,7 +26,7 @@
  * markdown  Markdown笔记
  */
 var editorScriptFile = {
-    normal  :"baidu_editor.js",
+    normal  :"wiz_ueditor.js",
     markdown:"md_editor.js"
 }
 ```
